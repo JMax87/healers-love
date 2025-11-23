@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://jmax87.github.io/healers-love/">
     <img src="./unused-assets/banner.bmp" alt="Logo" width="400" height="100">
   </a>
 
@@ -18,7 +18,7 @@
     Back around 1999, I had this site I made with Dreamweaver and posted to Geocities for my EverQuest guild. Going through some old hard drives I found what was left of the site and decided I'd get it posted one last time, as close to the final vision that I had at the time.
     <br />
     <br />
-       <a href="https://github.com/github_username/repo_name"><strong>View the site here »</strong></a>
+       <a href="https://jmax87.github.io/healers-love/"><strong>View the site here »</strong></a>
   </p>
 </div>
 
@@ -42,7 +42,7 @@
 
 <img src="./RM-images/screens1.jpg">
 <br>
-I tried to preserve the best I could to keep all the source code the same, wrapped together with duct tape and lies. I had to make a few adjustments to make it a functional page, but everything should be mostly as ugly as it was. I had no idea CSS exsisted and used Dreamweaver with a bit of hand crafted HTML and I got this lovely site using frames, tables, and HTML styling. It had background music, a counter, and only thing missing was a webrring!
+I tried to preserve the best I could to keep all the source code the same, wrapped together with duct tape and lies. I had to make a few adjustments to make it a functional page, but everything should be mostly as ugly as it was. I had no idea CSS exsisted and used Dreamweaver with a bit of hand crafted HTML and I got this lovely site using frames, tables, and HTML styling. It had background music, a counter, and even a non-needed "splash page" - the only thing missing was a webrring!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
